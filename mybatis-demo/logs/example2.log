@@ -1,0 +1,700 @@
+2019-11-18 08:42:33.678 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:42:33.678 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:42:33.678 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:42:33.694 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:42:33.694 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:42:52.408 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/deletebyid
+2019-11-18 08:42:52.408 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:42:52.408 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:42:52.408 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.delete
+2019-11-18 08:42:52.412 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [555]
+2019-11-18 08:42:53.567 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:42:53.567 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:42:53.567 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:42:53.567 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:42:53.567 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:42:54.574 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/deletebyid
+2019-11-18 08:42:54.574 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:42:54.574 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:42:54.574 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.delete
+2019-11-18 08:42:54.574 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [333]
+2019-11-18 08:42:55.590 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:42:55.594 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:42:55.594 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:42:55.594 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:42:55.594 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:42:59.859 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/deletebyid
+2019-11-18 08:42:59.859 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:42:59.859 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:42:59.859 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.delete
+2019-11-18 08:42:59.859 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [223]
+2019-11-18 08:43:00.621 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:43:00.621 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:43:00.621 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:43:00.621 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:43:00.621 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:43:01.624 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/deletebyid
+2019-11-18 08:43:01.628 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:43:01.628 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:43:01.628 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.delete
+2019-11-18 08:43:01.628 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [220]
+2019-11-18 08:43:02.355 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:43:02.355 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:43:02.355 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:43:02.355 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:43:02.355 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:43:03.457 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/deletebyid
+2019-11-18 08:43:03.461 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:43:03.461 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:43:03.461 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.delete
+2019-11-18 08:43:03.461 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [119]
+2019-11-18 08:43:04.070 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:43:04.070 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:43:04.070 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:43:04.070 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:43:04.070 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:43:05.081 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/deletebyid
+2019-11-18 08:43:05.081 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:43:05.081 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:43:05.081 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.delete
+2019-11-18 08:43:05.081 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [117]
+2019-11-18 08:43:06.005 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:43:06.005 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:43:06.005 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:43:06.005 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:43:06.005 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:43:20.948 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:43:20.948 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:43:20.948 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:43:20.948 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:43:20.948 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:43:31.195 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/deletebyid
+2019-11-18 08:43:31.195 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:43:31.195 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:43:31.195 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.delete
+2019-11-18 08:43:31.195 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [114]
+2019-11-18 08:43:32.316 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:43:32.316 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:43:32.316 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:43:32.316 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:43:32.316 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:43:33.475 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/deletebyid
+2019-11-18 08:43:33.475 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:43:33.475 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:43:33.475 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.delete
+2019-11-18 08:43:33.475 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [113]
+2019-11-18 08:43:34.375 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:43:34.375 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:43:34.375 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:43:34.375 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:43:34.375 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:43:37.538 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/deletebyid
+2019-11-18 08:43:37.538 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:43:37.538 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:43:37.538 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.delete
+2019-11-18 08:43:37.538 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [115]
+2019-11-18 08:43:38.434 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:43:38.434 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:43:38.434 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:43:38.434 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:43:38.434 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:43:42.043 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/deletebyid
+2019-11-18 08:43:42.043 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:43:42.043 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:43:42.043 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.delete
+2019-11-18 08:43:42.043 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [112]
+2019-11-18 08:43:42.973 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:43:42.973 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:43:42.973 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:43:42.973 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:43:42.973 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:43:48.180 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:43:48.180 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:43:48.180 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:43:48.180 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:43:48.180 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:44:25.739 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:44:25.739 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:44:25.739 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:44:25.739 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:44:25.739 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:44:36.695 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:44:36.695 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:44:36.695 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:44:36.695 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:44:36.695 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:44:42.380 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:44:42.380 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:44:42.380 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:44:42.380 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:44:42.380 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:46:15.762 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:46:15.762 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:46:15.762 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:46:15.766 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:46:15.766 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:46:24.869 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:46:24.869 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:46:24.869 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:46:24.869 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:46:24.869 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:46:28.881 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:46:28.881 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:46:28.881 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:46:28.881 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:46:28.881 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:46:50.530 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/addStudent
+2019-11-18 08:46:50.530 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:46:50.530 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : POST
+2019-11-18 08:46:50.530 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.saveStudent
+2019-11-18 08:46:50.530 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [id=111  name=包国森  sex=男  grade=1334  school=管理学院  major=顶顶顶顶  hobby=足球]
+2019-11-18 08:46:54.106 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:46:54.106 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:46:54.106 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:46:54.106 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:46:54.106 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:48:46.261 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:48:46.261 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:48:46.261 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:48:46.265 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:48:46.265 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:49:02.229 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/addStudent
+2019-11-18 08:49:02.229 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:49:02.229 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : POST
+2019-11-18 08:49:02.229 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.saveStudent
+2019-11-18 08:49:02.229 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [id=112  name=xxb  sex=女  grade=3344  school=管理学院  major=数学  hobby=篮球]
+2019-11-18 08:49:02.480 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:49:02.480 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:49:02.480 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:49:02.480 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:49:02.480 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:49:36.619 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/addStudent
+2019-11-18 08:49:36.619 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:49:36.619 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : POST
+2019-11-18 08:49:36.619 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.saveStudent
+2019-11-18 08:49:36.619 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [id=112  name=TT  sex=女  grade=4444  school=管理学院  major=金融  hobby=足球]
+2019-11-18 08:49:59.325 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/addStudent
+2019-11-18 08:49:59.325 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:49:59.325 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : POST
+2019-11-18 08:49:59.325 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.saveStudent
+2019-11-18 08:49:59.325 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [id=113  name=TT  sex=女  grade=4444  school=管理学院  major=金融  hobby=足球]
+2019-11-18 08:49:59.570 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:49:59.570 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:49:59.570 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:49:59.570 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:49:59.574 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:54:34.372 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/deletebyid
+2019-11-18 08:54:34.372 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:54:34.372 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:54:34.372 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.delete
+2019-11-18 08:54:34.372 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [113]
+2019-11-18 08:55:19.306 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:55:19.306 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:55:19.306 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:55:19.306 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:55:19.306 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:56:07.975 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findbyid
+2019-11-18 08:56:07.975 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:56:07.975 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:56:07.975 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findbyid
+2019-11-18 08:56:07.975 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [111]
+2019-11-18 08:56:49.428 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/updatebyid
+2019-11-18 08:56:49.428 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:56:49.428 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : POST
+2019-11-18 08:56:49.428 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.update
+2019-11-18 08:56:49.428 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [id=111  name=包国森  sex=男  grade=1334  school=管理学院  major=修改后的专业  hobby=修改后的爱好]
+2019-11-18 08:56:50.850 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:56:50.854 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:56:50.854 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:56:50.854 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:56:50.854 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:59:23.060 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:59:23.060 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:59:23.060 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:59:23.060 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:59:23.060 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 08:59:30.010 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findbyid
+2019-11-18 08:59:30.010 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:59:30.010 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:59:30.010 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findbyid
+2019-11-18 08:59:30.010 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [111]
+2019-11-18 08:59:32.263 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 08:59:32.267 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 08:59:32.267 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 08:59:32.267 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 08:59:32.267 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 09:00:00.346 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findbyid
+2019-11-18 09:00:00.346 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:00:00.346 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 09:00:00.346 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findbyid
+2019-11-18 09:00:00.346 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [111]
+2019-11-18 09:00:42.007 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 09:00:42.007 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:00:42.007 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 09:00:42.007 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 09:00:42.007 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 09:00:58.250 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/addStudent
+2019-11-18 09:00:58.250 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:00:58.250 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : POST
+2019-11-18 09:00:58.250 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.saveStudent
+2019-11-18 09:00:58.250 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [id=113  name=bgs  sex=男  grade=2444  school=管理学院  major=ddd  hobby=篮球]
+2019-11-18 09:00:58.512 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 09:00:58.516 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:00:58.516 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 09:00:58.516 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 09:00:58.516 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 09:01:03.772 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findbyname
+2019-11-18 09:01:03.772 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:01:03.772 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 09:01:03.772 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findbyid
+2019-11-18 09:01:03.772 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [b]
+2019-11-18 09:01:05.522 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 09:01:05.522 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:01:05.522 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 09:01:05.522 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 09:01:05.522 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 09:01:37.138 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findbyname
+2019-11-18 09:01:37.138 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:01:37.138 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 09:01:37.138 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findbyid
+2019-11-18 09:01:37.138 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [b]
+2019-11-18 09:02:39.172 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 09:02:39.172 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:02:39.172 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 09:02:39.172 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 09:02:39.172 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 09:05:39.210 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/addStudent
+2019-11-18 09:05:39.210 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:05:39.210 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : POST
+2019-11-18 09:05:39.210 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.saveStudent
+2019-11-18 09:05:39.210 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [id=114  name=静静  sex=女  grade=2017  school=管理学院  major=顶顶顶顶  hobby=篮球]
+2019-11-18 09:05:39.474 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 09:05:39.474 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:05:39.474 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 09:05:39.474 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 09:05:39.474 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 09:06:02.979 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/addStudent
+2019-11-18 09:06:02.979 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:06:02.979 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : POST
+2019-11-18 09:06:02.979 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.saveStudent
+2019-11-18 09:06:02.979 [http-nio-8080-exec-7] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [id=115  name=TT  sex=女  grade=3343  school=管理学院  major=dfddf  hobby=篮球]
+2019-11-18 09:06:03.239 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 09:06:03.239 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:06:03.239 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 09:06:03.239 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 09:06:03.239 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 09:06:12.021 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 09:06:12.021 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:06:12.021 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 09:06:12.021 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 09:06:12.021 [http-nio-8080-exec-9] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 09:06:36.545 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/addStudent
+2019-11-18 09:06:36.545 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:06:36.545 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : POST
+2019-11-18 09:06:36.545 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.saveStudent
+2019-11-18 09:06:36.545 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [id=116  name=J林涵  sex=男  grade=3334  school=管理学院  major=大幅度  hobby=足球]
+2019-11-18 09:06:36.794 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 09:06:36.794 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:06:36.794 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 09:06:36.794 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 09:06:36.794 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 09:08:21.439 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/file/upload
+2019-11-18 09:08:21.439 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:08:21.439 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : POST
+2019-11-18 09:08:21.439 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.FileUpload.upload
+2019-11-18 09:08:21.439 [http-nio-8080-exec-3] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [org.springframework.web.multipart.support.StandardMultipartHttpServletRequest@19798036, org.springframework.web.multipart.support.StandardMultipartHttpServletRequest@19798036]
+2019-11-18 09:08:22.674 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/uploadimgurl
+2019-11-18 09:08:22.674 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:08:22.674 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 09:08:22.674 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.uploadimgurl
+2019-11-18 09:08:22.674 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [111, blob:http://localhost:8081/8ad6633c-cc02-4792-ab76-75c1f0478cfc]
+2019-11-18 09:09:07.312 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 09:09:07.312 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:09:07.312 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 09:09:07.312 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 09:09:07.312 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 09:09:13.895 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findbyid
+2019-11-18 09:09:13.895 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:09:13.895 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 09:09:13.895 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findbyid
+2019-11-18 09:09:13.895 [http-nio-8080-exec-6] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [111]
+2019-11-18 09:21:28.281 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 09:21:28.281 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:21:28.281 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 09:21:28.281 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 09:21:28.281 [http-nio-8080-exec-8] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 09:21:57.998 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/file/upload2
+2019-11-18 09:21:57.998 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:21:57.998 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : POST
+2019-11-18 09:21:57.998 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.FileUpload.handleFileUpload
+2019-11-18 09:21:57.998 [http-nio-8080-exec-10] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@7ba0b73f, org.springframework.web.multipart.support.StandardMultipartHttpServletRequest@6d469351]
+2019-11-18 09:21:59.496 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/uploadfileurl
+2019-11-18 09:21:59.496 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:21:59.496 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 09:21:59.496 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.uploadfileurl
+2019-11-18 09:21:59.496 [http-nio-8080-exec-1] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [111, blob:http://localhost:8081/682ff520-20c6-4dff-8b4a-e524eee13562]
+2019-11-18 09:22:06.736 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 09:22:06.736 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:22:06.736 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 09:22:06.736 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 09:22:06.736 [http-nio-8080-exec-2] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []
+2019-11-18 09:23:37.048 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findbyid
+2019-11-18 09:23:37.048 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:23:37.048 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 09:23:37.048 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findbyid
+2019-11-18 09:23:37.048 [http-nio-8080-exec-4] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : [111]
+2019-11-18 09:23:37.880 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				请求地址 : http://127.0.0.1:8080/student/findAllStudents
+2019-11-18 09:23:37.880 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				方法描述 : 
+2019-11-18 09:23:37.880 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				HTTP METHOD : GET
+2019-11-18 09:23:37.880 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				CLASS_METHOD : mybatis.demo.controller.StudentController.findAllStudents
+2019-11-18 09:23:37.880 [http-nio-8080-exec-5] INFO  mybatis.demo.aspect.LogAspect -
+				参数 : []

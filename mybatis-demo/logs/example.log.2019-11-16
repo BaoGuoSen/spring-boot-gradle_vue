@@ -1,0 +1,12 @@
+2019-11-16 11:50:54.225 [http-nio-8080-exec-2] INFO  mybatis.demo.controller.StudentController -
+				查询id=112  name=xxb  sex=女  grade=2018  school=人工智能学院  major=经济  hobby=游泳
+2019-11-16 11:51:04.387 [http-nio-8080-exec-4] INFO  mybatis.demo.controller.StudentController -
+				查找名字中有谭的学生
+2019-11-16 15:45:46.149 [http-nio-8080-exec-4] INFO  mybatis.demo.controller.StudentController -
+				查找名字中有b的学生
+2019-11-16 15:46:00.435 [http-nio-8080-exec-6] INFO  mybatis.demo.controller.StudentController -
+				查询id=112  name=xxb  sex=女  grade=2018  school=人工智能学院  major=经济  hobby=游泳
+2019-11-16 16:29:10.560 [http-nio-8080-exec-5] INFO  mybatis.demo.controller.StudentController -
+				查询id=112  name=xxb  sex=女  grade=2018  school=人工智能学院  major=经济  hobby=游泳
+2019-11-16 16:29:24.622 [http-nio-8080-exec-7] INFO  mybatis.demo.controller.StudentController -
+				查找名字中有xxb的学生

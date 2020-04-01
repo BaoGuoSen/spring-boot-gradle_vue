@@ -1,0 +1,82 @@
+2019-11-17 13:10:25.858 [http-nio-8080-exec-1] INFO  mybatis.demo.controller.StudentController -
+				查找名字中有b的学生
+2019-11-17 13:24:08.038 [http-nio-8080-exec-1] INFO  mybatis.demo.controller.StudentController -
+				查找名字中有b的学生
+2019-11-17 13:32:12.328 [http-nio-8080-exec-3] INFO  mybatis.demo.controller.StudentController -
+				查找名字中有b的学生
+2019-11-17 16:43:50.395 [http-nio-8080-exec-9] INFO  mybatis.demo.controller.StudentController -
+				查找名字中有b的学生
+2019-11-17 16:43:55.323 [http-nio-8080-exec-1] INFO  mybatis.demo.controller.StudentController -
+				查找名字中有x的学生
+2019-11-17 16:44:04.191 [http-nio-8080-exec-3] INFO  mybatis.demo.controller.StudentController -
+				查找名字中有guo的学生
+2019-11-17 16:44:12.477 [http-nio-8080-exec-5] INFO  mybatis.demo.controller.StudentController -
+				查找名字中有guo的学生
+2019-11-17 18:33:37.670 [http-nio-8080-exec-2] INFO  mybatis.demo.controller.StudentController -
+				新增id=221  name=bbbbb  sex=男  grade=4  school=管理学院  major=dfdd   hobby=足球
+2019-11-17 18:37:22.127 [http-nio-8080-exec-6] INFO  mybatis.demo.controller.StudentController -
+				新增id=221  name=fggg  sex=男  grade=3  school=人工智能学院  major=dfd  hobby=足球
+2019-11-17 18:46:19.112 [http-nio-8080-exec-7] INFO  mybatis.demo.controller.StudentController -
+				新增id=221  name=dfdf  sex=男  grade=5  school=人工智能学院  major=dfd  hobby=足球
+2019-11-17 18:49:08.101 [http-nio-8080-exec-2] INFO  mybatis.demo.controller.StudentController -
+				新增id=113  name=包国森的   sex=女  grade=5  school=人工智能学院  major=dfdsf  hobby=足球
+2019-11-17 18:55:59.881 [http-nio-8080-exec-2] INFO  mybatis.demo.controller.StudentController -
+				查询id=115  name=ddf  sex=女  grade=3343  school=的看法  major=dkfj  hobby=打开
+2019-11-17 18:55:59.881 [http-nio-8080-exec-2] INFO  mybatis.demo.controller.StudentController -
+				删除id=115  name=ddf  sex=女  grade=3343  school=的看法  major=dkfj  hobby=打开
+2019-11-17 18:56:09.391 [http-nio-8080-exec-4] INFO  mybatis.demo.controller.StudentController -
+				查询id=117  name=谭谭  sex=女  grade=1234  school=管理学院  major=数学  hobby=看电影
+2019-11-17 18:56:09.391 [http-nio-8080-exec-4] INFO  mybatis.demo.controller.StudentController -
+				删除id=117  name=谭谭  sex=女  grade=1234  school=管理学院  major=数学  hobby=看电影
+2019-11-17 19:04:56.373 [http-nio-8080-exec-4] INFO  mybatis.demo.controller.StudentController -
+				新增id=223  name=图片  sex=男  grade=3  school=管理学院  major=地方  hobby=足球
+2019-11-17 19:05:10.012 [http-nio-8080-exec-6] INFO  mybatis.demo.controller.StudentController -
+				查询id=223  name=图片  sex=男  grade=3  school=管理学院  major=地方  hobby=足球
+2019-11-17 19:05:10.012 [http-nio-8080-exec-6] INFO  mybatis.demo.controller.StudentController -
+				删除id=223  name=图片  sex=男  grade=3  school=管理学院  major=地方  hobby=足球
+2019-11-17 19:05:12.783 [http-nio-8080-exec-8] INFO  mybatis.demo.controller.StudentController -
+				查询id=221  name=bbbbb  sex=男  grade=4  school=管理学院  major=dfdd   hobby=足球
+2019-11-17 19:05:12.783 [http-nio-8080-exec-8] INFO  mybatis.demo.controller.StudentController -
+				删除id=221  name=bbbbb  sex=男  grade=4  school=管理学院  major=dfdd   hobby=足球
+2019-11-17 19:16:08.146 [http-nio-8080-exec-5] INFO  mybatis.demo.controller.StudentController -
+				查询id=115  name=大幅度  sex=女  grade=3334  school=电风扇  major=的  hobby=的
+2019-11-17 19:16:08.146 [http-nio-8080-exec-5] INFO  mybatis.demo.controller.StudentController -
+				删除id=115  name=大幅度  sex=女  grade=3334  school=电风扇  major=的  hobby=的
+2019-11-17 19:16:16.826 [http-nio-8080-exec-7] INFO  mybatis.demo.controller.StudentController -
+				查询id=116  name=的看法  sex=女  grade=444  school=快递费就  major=的  hobby= 的
+2019-11-17 19:16:16.827 [http-nio-8080-exec-7] INFO  mybatis.demo.controller.StudentController -
+				删除id=116  name=的看法  sex=女  grade=444  school=快递费就  major=的  hobby= 的
+2019-11-17 19:16:25.959 [http-nio-8080-exec-1] INFO  mybatis.demo.controller.StudentController -
+				查询id=114  name=张银元  sex=女  grade=2222  school=人工智能学院  major=大数据  hobby=修改后的爱好
+2019-11-17 19:16:25.959 [http-nio-8080-exec-1] INFO  mybatis.demo.controller.StudentController -
+				删除id=114  name=张银元  sex=女  grade=2222  school=人工智能学院  major=大数据  hobby=修改后的爱好
+2019-11-17 19:21:13.902 [http-nio-8080-exec-2] INFO  mybatis.demo.controller.StudentController -
+				新增id=114  name=ddf  sex=男  grade=2  school=管理学院  major=大幅度  hobby=足球
+2019-11-17 19:21:32.912 [http-nio-8080-exec-6] INFO  mybatis.demo.controller.StudentController -
+				新增id=115  name=大幅度  sex=男  grade=2  school=人工智能学院  major=地方  hobby=足球
+2019-11-17 19:25:42.168 [http-nio-8080-exec-7] INFO  mybatis.demo.controller.StudentController -
+				新增id=117  name=的范德萨  sex=女  grade=3  school=管理学院  major=地方  hobby=足球
+2019-11-17 19:27:45.698 [http-nio-8080-exec-10] INFO  mybatis.demo.controller.StudentController -
+				新增id=220  name=地方  sex=女  grade=3  school=人工智能学院  major=地方  hobby=足球
+2019-11-17 19:28:22.741 [http-nio-8080-exec-2] INFO  mybatis.demo.controller.StudentController -
+				新增id=223  name=地方  sex=男  grade=2  school=人工智能学院  major=地方  hobby=足球
+2019-11-17 19:31:35.395 [http-nio-8080-exec-7] INFO  mybatis.demo.controller.StudentController -
+				查询id=112  name=xxb  sex=女  grade=2018  school=人工智能学院  major=经济  hobby=游泳
+2019-11-17 19:32:45.684 [http-nio-8080-exec-9] INFO  mybatis.demo.controller.StudentController -
+				查询id=112  name=xxb  sex=女  grade=2018  school=人工智能学院  major=经济  hobby=游泳
+2019-11-17 19:33:23.434 [http-nio-8080-exec-10] INFO  mybatis.demo.controller.StudentController -
+				查询id=113  name=包国森的   sex=女  grade=5  school=人工智能学院  major=dfdsf  hobby=足球
+2019-11-17 19:34:20.643 [http-nio-8080-exec-1] INFO  mybatis.demo.controller.StudentController -
+				查询id=113  name=包国森的   sex=女  grade=5  school=人工智能学院  major=dfdsf  hobby=足球
+2019-11-17 19:34:57.956 [http-nio-8080-exec-2] INFO  mybatis.demo.controller.StudentController -
+				查询id=113  name=包国森的   sex=女  grade=5  school=人工智能学院  major=dfdsf  hobby=足球
+2019-11-17 19:35:42.143 [http-nio-8080-exec-3] INFO  mybatis.demo.controller.StudentController -
+				查询id=113  name=包国森的   sex=女  grade=5  school=人工智能学院  major=dfdsf  hobby=足球
+2019-11-17 19:38:31.142 [http-nio-8080-exec-1] INFO  mybatis.demo.controller.StudentController -
+				新增id=333  name=地方  sex=男  grade=3  school=人工智能学院  major=地方  hobby=足球
+2019-11-17 19:39:03.869 [http-nio-8080-exec-2] INFO  mybatis.demo.controller.StudentController -
+				新增id=555  name=地方  sex=男  grade=2  school=管理学院  major=地方  hobby=足球
+2019-11-17 19:54:14.715 [http-nio-8080-exec-7] INFO  mybatis.demo.controller.StudentController -
+				查询id=112  name=xxb  sex=女  grade=2018  school=人工智能学院  major=经济  hobby=游泳
+2019-11-17 19:54:32.416 [http-nio-8080-exec-9] INFO  mybatis.demo.controller.StudentController -
+				查询id=112  name=xxb  sex=女  grade=2018  school=人工智能学院  major=经济  hobby=游泳
